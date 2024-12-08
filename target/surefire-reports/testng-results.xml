@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-23T12:01:47 IST" name="Suite" finished-at="2024-11-23T12:01:51 IST" duration-ms="3548">
+    <groups>
+    </groups>
+    <test started-at="2024-11-23T12:01:47 IST" name="Test" finished-at="2024-11-23T12:01:51 IST" duration-ms="3548">
+      <class name="scripts.Login_test">
+        <test-method signature="navi()[pri:0, instance:scripts.Login_test@5db45159]" started-at="2024-11-23T12:01:47 IST" name="navi" finished-at="2024-11-23T12:01:51 IST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navi -->
+      </class> <!-- scripts.Login_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
